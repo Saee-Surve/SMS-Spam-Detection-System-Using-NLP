@@ -28,7 +28,7 @@ Access the deployed application here:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: [Kaggle - SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - **Description**: The dataset contains a collection of labeled SMS messages for binary classification:
